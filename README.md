@@ -2,5 +2,5 @@
 
 ![alt text](https://github.com/gabrieljf217/APP-PushNotifications_ionic3/blob/master/src/assets/imgs/pushnoti.png)
 
-![alt text](https://github.com/gabrieljf217/APP-PushNotifications_ionic3/blob/master/src/assets/imgs/notiApp.png)
+![alt text](https://github.com/gabrieljf217/APP-PushNotifications_ionic3/blob/master/src/assets/imgs/notiApp.jpg)
 
